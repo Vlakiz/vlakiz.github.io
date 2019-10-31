@@ -15,7 +15,6 @@ body {
 hr {
     border-top: 1px solid #bebdb9;
     width: 90%;
-    margin-bottom: 50px;
 }
 
 #full-name {
@@ -35,6 +34,11 @@ hr {
     max-height: 400px;
     position: relative;
     top: 15px;
+}
+
+#personal {
+    margin: 0% 5%;
+    margin-bottom: 50px;
 }
 
 .block {
